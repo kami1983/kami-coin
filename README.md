@@ -9,7 +9,7 @@ EcoProofCard Implementation Version:  1.0.0
 ```
 
 ## Verify contract on polygonscan
-* npx hardhat verify --network polygon  0x10cf2332a1c9A9700427b8813BbCDAA56Dd6DAD5 (No need --constructor-args scripts/params/kami-coin.json)
+* npx hardhat verify --network polygon 0x10cf2332a1c9A9700427b8813BbCDAA56Dd6DAD5 (No need --constructor-args scripts/params/kami-coin.json)
 
 ## Check contract on 2023-10-31
 * npx hardhat run scripts/showContractInfos.js --network truffle-dashboard
